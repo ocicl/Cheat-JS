@@ -1,0 +1,9 @@
+* cheat-js
+
+Macros for JavaScript. Kinda.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mbrezu/Cheat-JS.git |
+| commit  | ad1882c                                   |
+| systems | cheat-js                                  |
+|---------+-------------------------------------------|
