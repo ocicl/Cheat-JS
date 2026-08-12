@@ -7,4 +7,4 @@ Macros for JavaScript. Kinda.
 | commit  | ad1882c                                   |
 | systems | cheat-js                                  |
 |---------+-------------------------------------------|
- 
+  
